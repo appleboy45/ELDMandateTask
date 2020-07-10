@@ -1,0 +1,6 @@
+framework module Pods_ELDMandateTask {
+  umbrella header "Pods-ELDMandateTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
